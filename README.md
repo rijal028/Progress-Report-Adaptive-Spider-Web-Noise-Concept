@@ -1,7 +1,9 @@
 # Progress-Report-Adaptive-Spider-Web-Noise-Concept
 
 Date: May 29, 2025
+
 Concept by: Rijal Saepuloh
+
 Contact: rijal028official@gmail.com
 
 Brief Introduction:
