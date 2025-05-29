@@ -32,5 +32,6 @@ This strategy of highlighting an extended area aims to significantly complicate 
 
 For victims of manipulation, the output of a broader highlighted area is sufficient as strong evidence. It clearly indicates that "within this marked zone, an attempt at manipulation or an inconsistency with the original protective structure that should be present in the image has been detected." This information serves as robust supporting evidence to refute the authenticity of an image or video, without the victim needing to understand the precise technical details of the damage at the pixel or noise structure level.
 
-Conceptual Conclusion for the Verification Application
+# Conceptual Conclusion for the Verification Application
+
 The development of this "Verification Application" idea, especially with the addition of an output strategy that obfuscates damage details to hinder manipulators while still providing valid and useful evidence for legitimate users, adds a significant dimension of practical utility and strategic intelligence to the overall "Adaptive Spider Web Noise" protection concept. This application aims to be a vital tool in identifying digital manipulation attempts and reinforcing the integrity of visual content in the era of generative AI
